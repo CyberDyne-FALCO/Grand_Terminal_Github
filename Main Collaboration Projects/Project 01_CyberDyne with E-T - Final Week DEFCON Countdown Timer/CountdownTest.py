@@ -24,6 +24,7 @@ def CheckAlarm(nownow, nowTime, Tripline, TriggerDate, PanicTime):
 def ChronoTrigger(Tripline):	
  
 	return
+#Not finished yet
 def ChronoPrint(DigitMins):
 	print("Writing...")
 	DisplayMins.clear()
